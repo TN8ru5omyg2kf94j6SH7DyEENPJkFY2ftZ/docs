@@ -165,5 +165,5 @@ The gist contents are base64-encoded before being sent out. This can be useful i
 [gfm]:http://github.github.com/github-flavored-markdown/
 [git-diff]: http://git-scm.com/docs/git-diff
 [git-patch]: http://git-scm.com/docs/git-format-patch
-[hypermedia]: /rest#hypermedia
+[hypermedia]: /test#hypermedia
 [versions]: /developers/overview/about-githubs-apis
